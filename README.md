@@ -1,2 +1,2 @@
 # markdown-notes
-notes for ubuntu
+notes for ubuntu calss in NQU
