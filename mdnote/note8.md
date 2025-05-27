@@ -37,4 +37,4 @@
 #### 利用瀏覽器瀏覽執行的容器
 1.  執行`docker run -d --name {dockernam} -p 8080:80 httpd` 掛載容器
 2.  在瀏覽器輸入docker回應的網址即可查看
-+ ![alt text](image-1.png)
++ ![alt text](/ubuntu_vt/筆記/20250422_docker/image-1.png)
